@@ -1,42 +1,37 @@
-html{
-
-}
-
 body{
     margin: 0 auto;
-    width: 100%;
-    height: 1000px;
-    border: solid blueviolet;
+    background:cornsilk
 }
 
-/* HAUT DE PAGE*/
 h1{
-    padding-bottom: 1%;
-}
-
-.pagetop{
-    width: 100%;
-    height: 5%;
     text-align: center;
-    border: crimson solid;
+    color: cornflowerblue;
 }
-/* FIN HAUT DE PAGE*/
 
-/* MENU UL*/
+hr{
+    margin-top:10% ;
+}
 
-ul{
-    margin: 0 auto;
-    width: 15%;
-    height: 943px;
-    float: left;
+nav{
     display: flex;
     justify-content: space-around;
-    flex-direction: column;
-    border: blue solid;
-    text-align: center;
+    margin-top: 5%;
 }
 
-/* FIN MENU UL*/
+a{
+    text-decoration: none;
+    font-size: 140%;
+    color: cornflowerblue;
+}
 
+.esp{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+    width: 100%;
+    height: 100%;
+}
 
-
+.tailleimg{
+    width: 200px;
+}
