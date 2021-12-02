@@ -27,11 +27,11 @@
     <!--FIN MENUS-->
 
     <div class="esp">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
+        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x"  alt="South Africa">
+        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x"  alt="South Africa">
+        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x"  alt="South Africa">
+        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x"  alt="South Africa">
+        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x"  alt="South Africa">
     </div>
 
     <hr>

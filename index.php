@@ -22,20 +22,13 @@
       <a href="page4.php">Océanie</a>
       <a href="page5.php">Afrique</a>
     </nav>
-
     <hr>
-    <!--FIN MENUS-->
-
-    <div class="esp">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
-        <img class="tailleimg" src="https://flagcdn.com/h40/za.png" srcset="https://flagcdn.com/h80/za.png 2x, https://flagcdn.com/h120/za.png 3x" height="40" alt="South Africa">
+    <div class="textindex">
+        <div>
+            <h2 class="COLOR">Welcome</h2>
+            <p class="COLOR">Baladez-vous sur notre site et découvrez l'heure à travers le monde!</p>
+        </div>
     </div>
-
-    <hr>
-
     <footer>
 
     </footer>
