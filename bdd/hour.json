@@ -1,0 +1,256 @@
+{
+    "liste-pays": [
+        
+        {
+            "Id": "1",
+            "Continent": "Afrique",
+            "Pays": "Côte d'Ivoire",
+            "Code_Pays": "ci",
+            "Ville": "Abidjan",
+            "Horaire": "04:49 PM Mon - Nov 29 - 2021",
+            "GMT": " GMT",
+            "Decalage": "00.00",
+            ";": ";"
+        },
+        {
+            "Id": "2",
+            "Continent": "Afrique",
+            "Pays": "Ghana",
+            "Code_Pays": "gh",
+            "Ville": "Accra",
+            "Horaire": "04:49 PM Mon - Nov 29 - 2021",
+            "GMT": " GMT",
+            "Decalage": "00.00"
+        },
+        {
+            "Id": "3",
+            "Continent": "Afrique",
+            "Pays": "Éthiopie",
+            "Code_Pays": "et",
+            "Ville": "Addis_Ababa",
+            "Horaire": "07:49 PM Mon - Nov 29 - 2021",
+            "GMT": " EAT",
+            "Decalage": "+03.00"
+        },
+        {
+            "Id": "4",
+            "Continent": "Afrique",
+            "Pays": "Algerie",
+            "Code_Pays": "dz",
+            "Ville": "Alger",
+            "Horaire": "05:49 PM Mon - Nov 29 - 2021",
+            "GMT": " CET",
+            "Decalage": "+01.00"
+        },
+        {
+            "Id": "5",
+            "Continent": "Afrique",
+            "Pays": "Eritrée",
+            "Code_Pays": "er",
+            "Ville": "Asmera",
+            "Horaire": "07:49 PM Mon - Nov 29 - 2021",
+            "GMT": " EAT",
+            "Decalage": "+03.00"
+        },
+        {
+            "Id": "6",
+            "Continent": "Amérique",
+            "Pays": "Alaska",
+            "Code_Pays": "us-ak",
+            "Ville": "Anchorage",
+            "Horaire": "07:49 AM Mon - Nov 29 - 2021",
+            "GMT": " AKST",
+            "Decalage": "-09.00"
+        },
+        {
+            "Id": "7",
+            "Continent": "Amérique",
+            "Pays": "Anguilla",
+            "Code_Pays": "ai",
+            "Ville": "Anguilla",
+            "Horaire": "12:49 PM Mon - Nov 29 - 2021",
+            "GMT": " AST",
+            "Decalage": "-04.00"
+        },
+        {
+            "Id": "8",
+            "Continent": "Amérique",
+            "Pays": "Antigua-et-Barbuda",
+            "Code_Pays": "ag",
+            "Ville": "Antigua",
+            "Horaire": "12:49 PM Mon - Nov 29 - 2021",
+            "GMT": " AST",
+            "Decalage": "-04.00"
+        },
+        {
+            "Id": "9",
+            "Continent": "Amérique",
+            "Pays": "Brésil",
+            "Code_Pays": "br",
+            "Ville": "Brasilia",
+            "Horaire": "01:49 PM Mon - Nov 29 - 2021",
+            "GMT": " BRT",
+            "Decalage": "-03.00"
+        },
+        {
+            "Id": "10",
+            "Continent": "Amérique",
+            "Pays": "Argentine",
+            "Code_Pays": "ar",
+            "Ville": "Buenos_Aires",
+            "Horaire": "01:49 PM Mon - Nov 29 - 2021",
+            "GMT": " ART",
+            "Decalage": "-03.00"
+        },
+        {
+            "Id": "11",
+            "Continent": "Asie",
+            "Pays": "Kazakhstan",
+            "Code_Pays": "kz",
+            "Ville": "Almaty",
+            "Horaire": "10:49 PM Mon - Nov 29 - 2021",
+            "GMT": " ALMT",
+            "Decalage": "+06.00"
+        },
+        {
+            "Id": "12",
+            "Continent": "Asie",
+            "Pays": "Jordanie",
+            "Code_Pays": "jo",
+            "Ville": "Amman",
+            "Horaire": "06:49 PM Mon - Nov 29 - 2021",
+            "GMT": " EET",
+            "Decalage": "+02.00"
+        },
+        {
+            "Id": "13",
+            "Continent": "Asie",
+            "Pays": "Russie",
+            "Code_Pays": "ru",
+            "Ville": "Anadyr",
+            "Horaire": "03:49 AM Tue - Nov 30 - 2021",
+            "GMT": " ANAT",
+            "Decalage": "+11.00"
+        },
+        {
+            "Id": "14",
+            "Continent": "Asie",
+            "Pays": " Kazakhstan",
+            "Code_Pays": "kz",
+            "Ville": "Aktau",
+            "Horaire": "09:49 PM Mon - Nov 29 - 2021",
+            "GMT": " AQTT",
+            "Decalage": "+05.00"
+        },
+        {
+            "Id": "15",
+            "Continent": "Asie",
+            "Pays": "Kazakhstan",
+            "Code_Pays": "kz",
+            "Ville": "Aktobe",
+            "Horaire": "09:49 PM Mon - Nov 29 - 2021",
+            "GMT": " AQTT",
+            "Decalage": "+05.00"
+        },
+        {
+            "Id": "16",
+            "Continent": "Europe",
+            "Pays": "Netherlands",
+            "Code_Pays": "nl",
+            "Ville": "Amsterdam",
+            "Horaire": "05:49 PM Mon - Nov 29 - 2021",
+            "GMT": " CET",
+            "Decalage": "+01.00"
+        },
+        {
+            "Id": "17",
+            "Continent": "Europe",
+            "Pays": "Andorre",
+            "Code_Pays": "ad",
+            "Ville": "Andorra",
+            "Horaire": "05:49 PM Mon - Nov 29 - 2021",
+            "GMT": " CET",
+            "Decalage": "+01.00"
+        },
+        {
+            "Id": "18",
+            "Continent": "Europe",
+            "Pays": "Grèce",
+            "Code_Pays": "gr",
+            "Ville": "Athens",
+            "Horaire": "06:49 PM Mon - Nov 29 - 2021",
+            "GMT": " EET",
+            "Decalage": "+02.00"
+        },
+        {
+            "Id": "19",
+            "Continent": "Europe",
+            "Pays": "Serbie",
+            "Code_Pays": "rs",
+            "Ville": "Belgrade",
+            "Horaire": "05:49 PM Mon - Nov 29 - 2021",
+            "GMT": " CET",
+            "Decalage": "+01.00"
+        },
+        {
+            "Id": "20",
+            "Continent": "Europe",
+            "Pays": "Allemagne",
+            "Code_Pays": "de",
+            "Ville": "Berlin",
+            "Horaire": "05:49 PM Mon - Nov 29 - 2021",
+            "GMT": " CET",
+            "Decalage": "+01.00"
+        },
+        {
+            "Id": "21",
+            "Continent": "Pacifique",
+            "Pays": "Nouvelle-zelande",
+            "Code_Pays": "nz",
+            "Ville": "Auckland",
+            "Horaire": "05:49 AM Tue - Nov 30 - 2021",
+            "GMT": " NZDT",
+            "Decalage": "+13.00"
+        },
+        {
+            "Id": "22",
+            "Continent": "Pacifique",
+            "Pays": "Tonga",
+            "Code_Pays": "to",
+            "Ville": "Chatham",
+            "Horaire": "06:34 AM Tue - Nov 30 - 2021",
+            "GMT": " CHAD;+13:45",
+            "Decalage": "",
+            ";": ""
+        },
+        {
+            "Id": "23",
+            "Continent": "Pacifique",
+            "Pays": "Vanuata",
+            "Code_Pays": "vu",
+            "Ville": "Efate",
+            "Horaire": "03:49 AM Tue - Nov 30 - 2021",
+            "GMT": " VUT",
+            "Decalage": "+11.00"
+        },
+        {
+            "Id": "24",
+            "Continent": "Pacifique",
+            "Pays": " Canton and Enderbury Islands",
+            "Ville": "Enderbury",
+            "Horaire": "05:49 AM Tue - Nov 30 - 2021",
+            "GMT": " PHOT",
+            "Decalage": "+13.00"
+        },
+        {
+            "Id": "25",
+            "Continent": "Pacifique",
+            "Pays": "Nouvelle-zelande",
+            "Code_Pays": "nz",
+            "Ville": "Fakaofo",
+            "Horaire": "06:49 AM Mon - Nov 29 - 2021",
+            "GMT": " TKT",
+            "Decalage": "-10.00"
+        }
+    ]
+}
