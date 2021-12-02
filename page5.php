@@ -28,14 +28,7 @@ foreach ($hour as $key => $item){
       
         </div>
       </div>');
-
-
-
-
-
-
-
-        
+  
         }
     }
 }
