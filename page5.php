@@ -3,18 +3,46 @@
     <!--FIN MENUS-->
 
     <div class="esp">
-        <img class="tailleimg" class="img1" src="https://flagcdn.com/h40/za.png" alt="South Africa">
-        <img class="tailleimg" class="img2" src="https://flagcdn.com/h40/za.png" alt="South Africa">
-        <img class="tailleimg" class="img3" src="https://flagcdn.com/h40/za.png" alt="South Africa">
-        <img class="tailleimg" class="img4" src="https://flagcdn.com/h40/za.png" alt="South Africa">
-        <img class="tailleimg" class="img5" src="https://flagcdn.com/h40/za.png" alt="South Africa">
-    </div>
+<?php
 
+$jsonhour =file_get_contents('bdd/hour.json', "r");
+$hour = json_decode($jsonhour, true);
+
+$img = 0;
+
+foreach ($hour as $key => $item){
+
+    foreach ($item as $key => $val){
+        $img ++;
+
+        if ($val["Continent"] == "Afrique") {
+        echo ('<div class="w3-container">
+        <div class="w3-card-4 w3-dark-grey" style="width:50%">
+      
+          <div class="w3-container w3-center">
+            <h3>'.$val["Pays"].'</h3>
+            <img class="tailleimg img'.$img.'" src="./images/'.$val["Code_Pays"].'.png" alt="Avatar" style="width:80%">
+            <h5>'.$val["Horaire"].'</h5>
+      
+          </div>
+      
+        </div>
+      </div>');
+
+
+
+
+
+
+
+        
+        }
+    }
+}
+?>
+
+    </div>
+    
     <hr>
 
-    <footer>
-
-    </footer>
-    <script src="app.js"></script>
-</body>
-</html>
+    <?php include "footer.php"; ?>

@@ -6,9 +6,6 @@
             <p class="COLOR">Baladez-vous sur notre site et découvrez l'heure à travers le monde!</p>
         </div>
     </div>
-    <footer>
+    <hr>
 
-    </footer>
-
-</body>
-</html>
+<?php include "footer.php"; ?>
