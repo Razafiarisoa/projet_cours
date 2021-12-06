@@ -1,8 +1,7 @@
 body{
     margin: 0 auto;
-    background:cornsilk;
+    background:cornsilk
 }
-
 
 h1{
     text-align: center;
@@ -52,7 +51,6 @@ a{
 
 .tailleimg{
     width: 200px;
-
 }
 /* FIN PAYS*/
 
@@ -70,40 +68,23 @@ a{
 
 
 /* FIN TEXT INDEX*/
-
-/*DEBUT FOOTER*/
-footer {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}
-
-#COMS{ 
+.dateHeure{
     text-align: center;
-    font-size: 250%;
+    margin-top: 41px;
 }
 
-#center{
-    display: flex;
-    justify-content: center;
+/* ------- SURVOL ------*/
+nav a:hover {
+   position: relative; 
 }
+.survolImg{
+    display:none;
+    position: absolute;
+    content: '';    
+    }
+    a:hover .survolImg {
+    display:block;
+    bottom: 20px;    
+    }
 
-#dw16{
-    display: flex;
-    justify-content: space-around;
-    width: 10%;
-    font-size: 130%;
-}
-
-#pad{
-    font-size: 110%;
-}
-
-.taillecoeur{
-    margin-top: 10%;
-    width: 30px;
-    height: 30px;
-}
-
-
- /*FIN FOOTER*/
+   
